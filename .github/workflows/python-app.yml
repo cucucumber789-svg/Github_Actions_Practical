@@ -26,4 +26,4 @@ jobs:
 
     - name: Run Python application
       run: |
-        python extractor.py
+        python extractor.py --file document_for_parsing.pdf
