@@ -26,4 +26,4 @@ jobs:
 
     - name: Run Python application
       run: |
-        python app.py
+        python extractor.py
